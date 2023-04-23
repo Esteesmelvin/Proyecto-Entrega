@@ -1,3 +1,3 @@
 # Proyectofinal
-![image](https://user-images.githubusercontent.com/89163978/233816361-7e7aebd8-c96a-4487-b0c7-47881906a3e0.png)
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/89163978/233816385-e1a6b0aa-f71c-477b-9112-9bbb4e6603b0.png">
 No se pudo realizar el deploy en Netlify, sin embargo el proyecto está funcional
